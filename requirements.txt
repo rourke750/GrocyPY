@@ -1,0 +1,5 @@
+selenium
+PyYAML
+urllib3>=1.24.2
+chardet==3.0.4
+requests>=2.20.0

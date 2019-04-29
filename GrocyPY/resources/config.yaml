@@ -1,0 +1,5 @@
+kroger_log_in_url: 'https://www.kroger.com/signin?redirectUrl=/'
+kroger_username: ""
+kroger_password: ""
+grocy_api_key: ""
+grocy_api_url: ""

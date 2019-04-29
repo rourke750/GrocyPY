@@ -1,0 +1,7 @@
+virtual/
+debug.log
+grocypy.log
+GrocyPY/resources/sqldb.db
+GrocyPY/__pycache__
+GrocyPY/resources/__pycache__
+GrocyPY/scrapers/__pycache__
